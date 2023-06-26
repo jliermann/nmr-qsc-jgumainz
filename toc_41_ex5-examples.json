@@ -1,0 +1,45 @@
+[
+  {
+    "id": "/2oRL/t1tVBS4/fiVgczRdGu5Uk=",
+    "mf": "C8H8O2",
+    "idCodeHash": "6a9d61bcf9a3ceb39c0b4659e92d7460",
+    "file": "./41_ex5-examples/10_Aufgabe_1a_-_o-Anisaldehyd/index.json",
+    "title": "Aufgabe_1a_-_o-Anisaldehyd",
+    "selected": true
+  },
+  {
+    "id": "KW8JOIh+oRDEdu0zrYjiUwKR7Qg=",
+    "mf": "C6H10O",
+    "idCodeHash": "0c040e49bbf171fdd75dbbc94458831f",
+    "file": "./41_ex5-examples/20_Aufgabe_1b_-_Cyclohexenoxid/index.json",
+    "title": "Aufgabe_1b_-_Cyclohexenoxid"
+  },
+  {
+    "id": "zAk9my+E1RyK8qbo4DQkfoy2yMQ=",
+    "mf": "C4H9Br",
+    "idCodeHash": "0391d02c6d34c77404772f31e896b6d9",
+    "file": "./41_ex5-examples/30_Aufgabe_1c_-_2-Brombutan/index.json",
+    "title": "Aufgabe_1c_-_2-Brombutan"
+  },
+  {
+    "id": "iuUJIwYGVaA8qdv+Uw9yjnwRbLk=",
+    "mf": "C5H13NO",
+    "idCodeHash": "b71b8e1b4dc942b82b278c47cccdca2f",
+    "file": "./41_ex5-examples/40_Aufgabe_1d_-_Valinol/index.json",
+    "title": "Aufgabe_1d_-_Valinol"
+  },
+  {
+    "id": "SR7ZZvEgr22jNWC6HBoK2zJZvZk=",
+    "mf": "C6H8O7",
+    "idCodeHash": "e3fd75a98ad6a0ff82d7e6bf2b84b17c",
+    "file": "./41_ex5-examples/50_Aufgabe_1e_-_Citronensaeure/index.json",
+    "title": "Aufgabe_1e_-_Citronensaeure"
+  },
+  {
+    "id": "UIirp3XNmZ+u0eAmabdkvPCmCYw=",
+    "mf": "C12H10",
+    "idCodeHash": "2ef6f33711f071044dee07cdf7e1841e",
+    "file": "./41_ex5-examples/60_Aufgabe_1f_-_Biphenyl/index.json",
+    "title": "Aufgabe_1f_-_Biphenyl"
+  }
+]

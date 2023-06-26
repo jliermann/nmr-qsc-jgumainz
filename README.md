@@ -10,5 +10,12 @@ This text may be replaced by the description of the exercise.
 
 Links to series
 
-* [Seminare](https://www.nmrium.org/teaching#?toc=https://jliermann.github.io/nmr-qsc-jgumainz/toc_10_Seminare.json)
-* [Uebungen](https://www.nmrium.org/teaching#?toc=https://jliermann.github.io/nmr-qsc-jgumainz/toc_20_Uebungen.json)
+* [Übungsblatt 2](https://www.nmrium.org/teaching#?toc=https://jliermann.github.io/nmr-qsc-jgumainz/toc_10_ex2.json)
+* [Übungsblatt 3](https://www.nmrium.org/teaching#?toc=https://jliermann.github.io/nmr-qsc-jgumainz/toc_20_ex3.json)
+* [Übungsblatt 4](https://www.nmrium.org/teaching#?toc=https://jliermann.github.io/nmr-qsc-jgumainz/toc_30_ex4.json)
+* [seminar3](https://www.nmrium.org/teaching#?toc=https://jliermann.github.io/nmr-qsc-jgumainz/toc_30_seminar3.json)
+* [Übungsblatt 5](https://www.nmrium.org/teaching#?toc=https://jliermann.github.io/nmr-qsc-jgumainz/toc_40_ex5.json)
+* [Übungsblatt 5 - Spektrenbeispiele](https://www.nmrium.org/teaching#?toc=https://jliermann.github.io/nmr-qsc-jgumainz/toc_41_ex5-examples.json)
+* [Übungsblatt 6](https://www.nmrium.org/teaching#?toc=https://jliermann.github.io/nmr-qsc-jgumainz/toc_50_ex6.json)
+* [Übungsblatt 7](https://www.nmrium.org/teaching#?toc=https://jliermann.github.io/nmr-qsc-jgumainz/toc_60_ex7.json)
+* [Sonstige Übungen](https://www.nmrium.org/teaching#?toc=https://jliermann.github.io/nmr-qsc-jgumainz/toc_99_misc.json)
