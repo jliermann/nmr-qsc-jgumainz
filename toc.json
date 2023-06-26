@@ -14,21 +14,41 @@
     ]
   },
   {
+    "groupName": "Seminar 3",
+    "folderName": "130_seminar3",
+    "children": [
+      {
+        "id": "JRFbzB/FZnCH3sX1bhXPCaQPBUY=",
+        "mf": "C4H6O5",
+        "idCodeHash": "db84c5bc1ff14abf4ff7038b950257c9",
+        "file": "./130_seminar3/10_Aufgabe_1/index.json",
+        "title": "Aufgabe_1"
+      },
+      {
+        "id": "pWb/Pv18wzO5sMfS0VKTDBJc6XA=",
+        "mf": "C6H5OCl",
+        "idCodeHash": "7f8570d262d8419be21507dbe1609fd9",
+        "file": "./130_seminar3/20_Aufgabe_2/index.json",
+        "title": "Aufgabe_2"
+      },
+      {
+        "id": "NqUr0j1wta/j/tkiGhO3SgAKgqQ=",
+        "mf": "C16H20O2",
+        "idCodeHash": "a4b1e0077416e306664ad706b253ba4e",
+        "file": "./130_seminar3/30_Aufgabe_3/index.json",
+        "title": "Aufgabe_3"
+      }
+    ]
+  },
+  {
     "groupName": "Übungsblatt 3",
     "folderName": "20_ex3",
     "children": [
       {
-        "id": "Wpjv0Q1faMyLz/AubNSAP9Qq5zw=",
-        "mf": "C6H5OCl",
-        "idCodeHash": "7f8570d262d8419be21507dbe1609fd9",
-        "file": "./20_ex3/10_Aufgabe_2/index.json",
-        "title": "Aufgabe_2"
-      },
-      {
-        "id": "dOrgHSOzlevefQs5AZDjO627b30=",
+        "id": "RlJzkiAtPeOfVa/1urL52H5M09I=",
         "mf": "C5H10O",
         "idCodeHash": "0e80ebd2a9a2eb6836a2ee31fab99854",
-        "file": "./20_ex3/20_Aufgabe_3/index.json",
+        "file": "./20_ex3/30_Aufgabe_3/index.json",
         "title": "Aufgabe_3"
       }
     ]
@@ -36,35 +56,7 @@
   {
     "groupName": "Übungsblatt 4",
     "folderName": "30_ex4",
-    "children": [
-      {
-        "id": "lO9JkAEI/kENEyfH79XcVcouae0=",
-        "mf": "C4H6O",
-        "idCodeHash": "0d33ddbfb36dd813fbd529a537d5d36b",
-        "file": "./30_ex4/10_Aufgabe_2/index.json",
-        "title": "Aufgabe_2"
-      }
-    ]
-  },
-  {
-    "groupName": "seminar3",
-    "folderName": "30_seminar3",
-    "children": [
-      {
-        "id": "JRFbzB/FZnCH3sX1bhXPCaQPBUY=",
-        "mf": "C4H6O5",
-        "idCodeHash": "db84c5bc1ff14abf4ff7038b950257c9",
-        "file": "./30_seminar3/10_Aufgabe_1/index.json",
-        "title": "Aufgabe_1"
-      },
-      {
-        "id": "VDHEh3bD78WIvbMUHeMWyUCMK4M=",
-        "mf": "C16H20O2",
-        "idCodeHash": "a4b1e0077416e306664ad706b253ba4e",
-        "file": "./30_seminar3/20_Aufgabe_2/index.json",
-        "title": "Aufgabe_2"
-      }
-    ]
+    "children": []
   },
   {
     "groupName": "Übungsblatt 5",
