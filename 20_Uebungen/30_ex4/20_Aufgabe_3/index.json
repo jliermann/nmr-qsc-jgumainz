@@ -1,0 +1,12 @@
+{
+  "spectra": [
+    {
+      "source": {
+        "jcampURL": "./1+2-phenylethanol.dx"
+      },
+      "display": {
+        "name": ""
+      }
+    }
+  ]
+}

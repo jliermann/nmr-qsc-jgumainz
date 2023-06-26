@@ -1,0 +1,203 @@
+[
+  {
+    "groupName": "Seminare",
+    "folderName": "10_Seminare",
+    "children": [
+      {
+        "id": "21wBDGp0NGyoGUusc56oL8HW1Go=",
+        "mf": "C4H6O5",
+        "idCodeHash": "db84c5bc1ff14abf4ff7038b950257c9",
+        "file": "./10_Seminare/30_seminar3/index.json",
+        "title": "seminar3",
+        "selected": true
+      }
+    ]
+  },
+  {
+    "groupName": "Uebungen",
+    "folderName": "20_Uebungen",
+    "children": [
+      {
+        "groupName": "Übungsblatt 2",
+        "folderName": "10_ex2",
+        "children": [
+          {
+            "id": "QVfg3qiU3GxHLpjDTSkJovDtdww=",
+            "mf": "C4H9Br",
+            "idCodeHash": "236b3c4e9cae96fde9b5cc891bf35885",
+            "file": "./20_Uebungen/10_ex2/10_Aufgabe_3/index.json",
+            "title": "ex2/10_Aufgabe_3"
+          }
+        ]
+      },
+      {
+        "groupName": "Übungsblatt 3",
+        "folderName": "20_ex3",
+        "children": [
+          {
+            "id": "UAyQA5OPFr20EamATJXh9DiMXDA=",
+            "mf": "C6H5OCl",
+            "idCodeHash": "7f8570d262d8419be21507dbe1609fd9",
+            "file": "./20_Uebungen/20_ex3/10_Aufgabe_2/index.json",
+            "title": "ex3/10_Aufgabe_2"
+          },
+          {
+            "id": "12r7ZygnN/wvhcumr1+LZwfbuzY=",
+            "mf": "C5H10O",
+            "idCodeHash": "0e80ebd2a9a2eb6836a2ee31fab99854",
+            "file": "./20_Uebungen/20_ex3/20_Aufgabe_3/index.json",
+            "title": "ex3/20_Aufgabe_3"
+          }
+        ]
+      },
+      {
+        "groupName": "Übungsblatt 4",
+        "folderName": "30_ex4",
+        "children": [
+          {
+            "id": "K0ZmnmonB4M5k5KhgtVUwdwJSww=",
+            "mf": "C4H6O",
+            "idCodeHash": "0d33ddbfb36dd813fbd529a537d5d36b",
+            "file": "./20_Uebungen/30_ex4/10_Aufgabe_2/index.json",
+            "title": "ex4/10_Aufgabe_2"
+          },
+          {
+            "id": "fgyM1rgy1uo4taJg2ed9aiN6dKE=",
+            "mf": "C16H20O2",
+            "idCodeHash": "a4b1e0077416e306664ad706b253ba4e",
+            "file": "./20_Uebungen/30_ex4/20_Aufgabe_3/index.json",
+            "title": "ex4/20_Aufgabe_3"
+          }
+        ]
+      },
+      {
+        "groupName": "Übungsblatt 5",
+        "folderName": "40_ex5",
+        "children": [
+          {
+            "id": "gFkn+giinEo/9ckXLanB6z+6bJY=",
+            "mf": "C3H4O",
+            "idCodeHash": "7b0fe64fb05b4270b44579f6c4dd0293",
+            "file": "./20_Uebungen/40_ex5/10_Aufgabe_2/index.json",
+            "title": "ex5/10_Aufgabe_2"
+          },
+          {
+            "id": "7OxEZj4VIJpqBYoCkXrriHaXzJ0=",
+            "mf": "C8H8O",
+            "idCodeHash": "e4617999ccdccfc27ee8da157b5d8bdd",
+            "file": "./20_Uebungen/40_ex5/20_Aufgabe_3/index.json",
+            "title": "ex5/20_Aufgabe_3"
+          },
+          {
+            "id": "V22nT1xsp3fQmHlcOeH04TOcHNg=",
+            "mf": "C6H10",
+            "idCodeHash": "37bda40ad086a34bedb633da0ffa5359",
+            "file": "./20_Uebungen/40_ex5/30_Aufgabe_4/index.json",
+            "title": "ex5/30_Aufgabe_4"
+          }
+        ]
+      },
+      {
+        "groupName": "Übungsblatt 5 - Spektrenbeispiele",
+        "folderName": "41_ex5-examples",
+        "children": [
+          {
+            "id": "/2oRL/t1tVBS4/fiVgczRdGu5Uk=",
+            "mf": "C8H8O2",
+            "idCodeHash": "6a9d61bcf9a3ceb39c0b4659e92d7460",
+            "file": "./20_Uebungen/41_ex5-examples/10_Aufgabe_1a_-_o-Anisaldehyd/index.json",
+            "title": "ex5-examples/10_Aufgabe_1a_-_o-Anisaldehyd"
+          },
+          {
+            "id": "KW8JOIh+oRDEdu0zrYjiUwKR7Qg=",
+            "mf": "C6H10O",
+            "idCodeHash": "0c040e49bbf171fdd75dbbc94458831f",
+            "file": "./20_Uebungen/41_ex5-examples/20_Aufgabe_1b_-_Cyclohexenoxid/index.json",
+            "title": "ex5-examples/20_Aufgabe_1b_-_Cyclohexenoxid"
+          },
+          {
+            "id": "zAk9my+E1RyK8qbo4DQkfoy2yMQ=",
+            "mf": "C4H9Br",
+            "idCodeHash": "0391d02c6d34c77404772f31e896b6d9",
+            "file": "./20_Uebungen/41_ex5-examples/30_Aufgabe_1c_-_2-Brombutan/index.json",
+            "title": "ex5-examples/30_Aufgabe_1c_-_2-Brombutan"
+          },
+          {
+            "id": "iuUJIwYGVaA8qdv+Uw9yjnwRbLk=",
+            "mf": "C5H13NO",
+            "idCodeHash": "b71b8e1b4dc942b82b278c47cccdca2f",
+            "file": "./20_Uebungen/41_ex5-examples/40_Aufgabe_1d_-_Valinol/index.json",
+            "title": "ex5-examples/40_Aufgabe_1d_-_Valinol"
+          },
+          {
+            "id": "SR7ZZvEgr22jNWC6HBoK2zJZvZk=",
+            "mf": "C6H8O7",
+            "idCodeHash": "e3fd75a98ad6a0ff82d7e6bf2b84b17c",
+            "file": "./20_Uebungen/41_ex5-examples/50_Aufgabe_1e_-_Citronensaeure/index.json",
+            "title": "ex5-examples/50_Aufgabe_1e_-_Citronensaeure"
+          },
+          {
+            "id": "UIirp3XNmZ+u0eAmabdkvPCmCYw=",
+            "mf": "C12H10",
+            "idCodeHash": "2ef6f33711f071044dee07cdf7e1841e",
+            "file": "./20_Uebungen/41_ex5-examples/60_Aufgabe_1f_-_Biphenyl/index.json",
+            "title": "ex5-examples/60_Aufgabe_1f_-_Biphenyl"
+          }
+        ]
+      },
+      {
+        "groupName": "Übungsblatt 6",
+        "folderName": "50_ex6",
+        "children": [
+          {
+            "id": "n8SDVeoBZZgYy9N7LWEmOX+6HVU=",
+            "mf": "C6H7N",
+            "idCodeHash": "f7da5c2932735cb6ce23836eee157124",
+            "file": "./20_Uebungen/50_ex6/10_Aufgabe_1/index.json",
+            "title": "ex6/10_Aufgabe_1"
+          },
+          {
+            "id": "iv5BZgyXv821QpM6g1H6RQdN40E=",
+            "mf": "C11H12O2",
+            "idCodeHash": "836dec4627c37db55f8ffa49b1891c41",
+            "file": "./20_Uebungen/50_ex6/20_Aufgabe_2/index.json",
+            "title": "ex6/20_Aufgabe_2"
+          }
+        ]
+      },
+      {
+        "groupName": "Übungsblatt 7",
+        "folderName": "60_ex7",
+        "children": [
+          {
+            "id": "E7IJXFx8i14n7NbRSUG11pPJHGA=",
+            "mf": "C7H8O3",
+            "idCodeHash": "4444139bcfd725a2cf01a7354ed5b468",
+            "file": "./20_Uebungen/60_ex7/10_Aufgabe_1/index.json",
+            "title": "ex7/10_Aufgabe_1"
+          },
+          {
+            "id": "nYzD4EiWTQ75aPTzdikZSg2i3AY=",
+            "mf": "C5H6O2",
+            "idCodeHash": "b737f6c099924a74d968d86c8e679a89",
+            "file": "./20_Uebungen/60_ex7/20_Aufgabe_2/index.json",
+            "title": "ex7/20_Aufgabe_2"
+          }
+        ]
+      },
+      {
+        "groupName": "Sonstige Übungen",
+        "folderName": "99_misc",
+        "children": [
+          {
+            "id": "srFC5CQIQC8Iu6HdI6oJI9Sggds=",
+            "mf": "C3H5OCl",
+            "idCodeHash": "cf7dec2ff187b6b8eab1a7a14f2c4180",
+            "file": "./20_Uebungen/99_misc/106-89-8/index.json",
+            "title": "misc/106-89-8"
+          }
+        ]
+      }
+    ]
+  }
+]
