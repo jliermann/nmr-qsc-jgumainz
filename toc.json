@@ -98,13 +98,6 @@
         "idCodeHash": "46c12bcaf76bf389dd81495c25000efa",
         "file": "./141_seminar4/20_Aufgabe_2/index.json",
         "title": "Aufgabe_2"
-      },
-      {
-        "id": "UZGaf35So8SNWzArC0iJtYF2K5U=",
-        "mf": "C8H8O",
-        "idCodeHash": "e4617999ccdccfc27ee8da157b5d8bdd",
-        "file": "./141_seminar4/30_Aufgabe_3/index.json",
-        "title": "Aufgabe_3"
       }
     ]
   },
@@ -124,32 +117,40 @@
   {
     "groupName": "Übungsblatt 4",
     "folderName": "30_ex4",
-    "children": []
+    "children": [
+      {
+        "id": "K0ZmnmonB4M5k5KhgtVUwdwJSww=",
+        "mf": "C4H6O",
+        "idCodeHash": "0d33ddbfb36dd813fbd529a537d5d36b",
+        "file": "./30_ex4/10_Aufgabe_2/index.json",
+        "title": "Aufgabe_2"
+      },
+      {
+        "id": "1GlYTVkqXNDUe/D2KuxgRpSNcus=",
+        "mf": "C3H4O",
+        "idCodeHash": "7b0fe64fb05b4270b44579f6c4dd0293",
+        "file": "./30_ex4/20_Aufgabe_2/index.json",
+        "title": "Aufgabe_2"
+      },
+      {
+        "id": "k9iBU/PLNgE9/hMxDvdMS3Pw37g=",
+        "mf": "C6H10",
+        "idCodeHash": "37bda40ad086a34bedb633da0ffa5359",
+        "file": "./30_ex4/30_Aufgabe_3/index.json",
+        "title": "Aufgabe_3"
+      }
+    ]
   },
   {
     "groupName": "Übungsblatt 5",
     "folderName": "40_ex5",
     "children": [
       {
-        "id": "nNi5kFfL1SIsewzW+gae+i9iabU=",
-        "mf": "C3H4O",
-        "idCodeHash": "7b0fe64fb05b4270b44579f6c4dd0293",
-        "file": "./40_ex5/10_Aufgabe_2/index.json",
-        "title": "Aufgabe_2"
-      },
-      {
         "id": "W+3EPlfKYO3dBwrOiBcz4KT0ZQ8=",
         "mf": "C8H8O",
         "idCodeHash": "e4617999ccdccfc27ee8da157b5d8bdd",
         "file": "./40_ex5/20_Aufgabe_3/index.json",
         "title": "Aufgabe_3"
-      },
-      {
-        "id": "kEL+Bo1QKOzYQFI+R6dZAQhIrps=",
-        "mf": "C6H10",
-        "idCodeHash": "37bda40ad086a34bedb633da0ffa5359",
-        "file": "./40_ex5/30_Aufgabe_4/index.json",
-        "title": "Aufgabe_4"
       }
     ]
   },

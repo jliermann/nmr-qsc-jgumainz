@@ -1,0 +1,24 @@
+[
+  {
+    "id": "K0ZmnmonB4M5k5KhgtVUwdwJSww=",
+    "mf": "C4H6O",
+    "idCodeHash": "0d33ddbfb36dd813fbd529a537d5d36b",
+    "file": "./30_ex4/10_Aufgabe_2/index.json",
+    "title": "Aufgabe_2",
+    "selected": true
+  },
+  {
+    "id": "1GlYTVkqXNDUe/D2KuxgRpSNcus=",
+    "mf": "C3H4O",
+    "idCodeHash": "7b0fe64fb05b4270b44579f6c4dd0293",
+    "file": "./30_ex4/20_Aufgabe_2/index.json",
+    "title": "Aufgabe_2"
+  },
+  {
+    "id": "k9iBU/PLNgE9/hMxDvdMS3Pw37g=",
+    "mf": "C6H10",
+    "idCodeHash": "37bda40ad086a34bedb633da0ffa5359",
+    "file": "./30_ex4/30_Aufgabe_3/index.json",
+    "title": "Aufgabe_3"
+  }
+]

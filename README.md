@@ -15,6 +15,7 @@ Links to series
 * [seminar4_aufg1](https://www.nmrium.org/teaching#?toc=https://jliermann.github.io/nmr-qsc-jgumainz/toc_140_seminar4_aufg1.json)
 * [seminar4](https://www.nmrium.org/teaching#?toc=https://jliermann.github.io/nmr-qsc-jgumainz/toc_141_seminar4.json)
 * [Übungsblatt 3](https://www.nmrium.org/teaching#?toc=https://jliermann.github.io/nmr-qsc-jgumainz/toc_20_ex3.json)
+* [Übungsblatt 4](https://www.nmrium.org/teaching#?toc=https://jliermann.github.io/nmr-qsc-jgumainz/toc_30_ex4.json)
 * [Übungsblatt 5](https://www.nmrium.org/teaching#?toc=https://jliermann.github.io/nmr-qsc-jgumainz/toc_40_ex5.json)
 * [Übungsblatt 6](https://www.nmrium.org/teaching#?toc=https://jliermann.github.io/nmr-qsc-jgumainz/toc_50_ex6.json)
 * [Übungsblatt 7](https://www.nmrium.org/teaching#?toc=https://jliermann.github.io/nmr-qsc-jgumainz/toc_60_ex7.json)
