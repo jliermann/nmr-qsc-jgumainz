@@ -41,6 +41,74 @@
     ]
   },
   {
+    "groupName": "seminar4_aufg1",
+    "folderName": "140_seminar4_aufg1",
+    "children": [
+      {
+        "id": "3g/uBxceLzxCaOnclzg+Xg6WQ0M=",
+        "mf": "C8H8O2",
+        "idCodeHash": "6a9d61bcf9a3ceb39c0b4659e92d7460",
+        "file": "./140_seminar4_aufg1/10_Aufgabe_1c_-_o-Anisaldehyd/index.json",
+        "title": "Aufgabe_1c_-_o-Anisaldehyd"
+      },
+      {
+        "id": "gItGVQNT2BDkwqNILKxbP6zd0GI=",
+        "mf": "C6H10O",
+        "idCodeHash": "0c040e49bbf171fdd75dbbc94458831f",
+        "file": "./140_seminar4_aufg1/20_Aufgabe_1c_-_Cyclohexenoxid/index.json",
+        "title": "Aufgabe_1c_-_Cyclohexenoxid"
+      },
+      {
+        "id": "zAk9my+E1RyK8qbo4DQkfoy2yMQ=",
+        "mf": "C4H9Br",
+        "idCodeHash": "0391d02c6d34c77404772f31e896b6d9",
+        "file": "./140_seminar4_aufg1/30_Aufgabe_1c_-_2-Brombutan/index.json",
+        "title": "Aufgabe_1c_-_2-Brombutan"
+      },
+      {
+        "id": "bZs6/MuLlwYp/A/hwm194u51xpg=",
+        "mf": "C5H13NO",
+        "idCodeHash": "b71b8e1b4dc942b82b278c47cccdca2f",
+        "file": "./140_seminar4_aufg1/40_Aufgabe_1c_-_Valinol/index.json",
+        "title": "Aufgabe_1c_-_Valinol"
+      },
+      {
+        "id": "Z/4zF8va4gmPHB5Rbq2EZOsWmRc=",
+        "mf": "C6H8O7",
+        "idCodeHash": "e3fd75a98ad6a0ff82d7e6bf2b84b17c",
+        "file": "./140_seminar4_aufg1/50_Aufgabe_1c_-_Citronensaeure/index.json",
+        "title": "Aufgabe_1c_-_Citronensaeure"
+      },
+      {
+        "id": "5gtX1+AOvPAi2qwR+ioptGThLtQ=",
+        "mf": "C12H10",
+        "idCodeHash": "2ef6f33711f071044dee07cdf7e1841e",
+        "file": "./140_seminar4_aufg1/60_Aufgabe_1c_-_Biphenyl/index.json",
+        "title": "Aufgabe_1c_-_Biphenyl"
+      }
+    ]
+  },
+  {
+    "groupName": "seminar4",
+    "folderName": "141_seminar4",
+    "children": [
+      {
+        "id": "Hquc4kByrXjNh4f6fRYDAE5WOXc=",
+        "mf": "C5H8O",
+        "idCodeHash": "46c12bcaf76bf389dd81495c25000efa",
+        "file": "./141_seminar4/20_Aufgabe_2/index.json",
+        "title": "Aufgabe_2"
+      },
+      {
+        "id": "UZGaf35So8SNWzArC0iJtYF2K5U=",
+        "mf": "C8H8O",
+        "idCodeHash": "e4617999ccdccfc27ee8da157b5d8bdd",
+        "file": "./141_seminar4/30_Aufgabe_3/index.json",
+        "title": "Aufgabe_3"
+      }
+    ]
+  },
+  {
     "groupName": "Übungsblatt 3",
     "folderName": "20_ex3",
     "children": [
@@ -88,50 +156,7 @@
   {
     "groupName": "Übungsblatt 5 - Spektrenbeispiele",
     "folderName": "41_ex5-examples",
-    "children": [
-      {
-        "id": "/2oRL/t1tVBS4/fiVgczRdGu5Uk=",
-        "mf": "C8H8O2",
-        "idCodeHash": "6a9d61bcf9a3ceb39c0b4659e92d7460",
-        "file": "./41_ex5-examples/10_Aufgabe_1a_-_o-Anisaldehyd/index.json",
-        "title": "Aufgabe_1a_-_o-Anisaldehyd"
-      },
-      {
-        "id": "KW8JOIh+oRDEdu0zrYjiUwKR7Qg=",
-        "mf": "C6H10O",
-        "idCodeHash": "0c040e49bbf171fdd75dbbc94458831f",
-        "file": "./41_ex5-examples/20_Aufgabe_1b_-_Cyclohexenoxid/index.json",
-        "title": "Aufgabe_1b_-_Cyclohexenoxid"
-      },
-      {
-        "id": "zAk9my+E1RyK8qbo4DQkfoy2yMQ=",
-        "mf": "C4H9Br",
-        "idCodeHash": "0391d02c6d34c77404772f31e896b6d9",
-        "file": "./41_ex5-examples/30_Aufgabe_1c_-_2-Brombutan/index.json",
-        "title": "Aufgabe_1c_-_2-Brombutan"
-      },
-      {
-        "id": "iuUJIwYGVaA8qdv+Uw9yjnwRbLk=",
-        "mf": "C5H13NO",
-        "idCodeHash": "b71b8e1b4dc942b82b278c47cccdca2f",
-        "file": "./41_ex5-examples/40_Aufgabe_1d_-_Valinol/index.json",
-        "title": "Aufgabe_1d_-_Valinol"
-      },
-      {
-        "id": "SR7ZZvEgr22jNWC6HBoK2zJZvZk=",
-        "mf": "C6H8O7",
-        "idCodeHash": "e3fd75a98ad6a0ff82d7e6bf2b84b17c",
-        "file": "./41_ex5-examples/50_Aufgabe_1e_-_Citronensaeure/index.json",
-        "title": "Aufgabe_1e_-_Citronensaeure"
-      },
-      {
-        "id": "UIirp3XNmZ+u0eAmabdkvPCmCYw=",
-        "mf": "C12H10",
-        "idCodeHash": "2ef6f33711f071044dee07cdf7e1841e",
-        "file": "./41_ex5-examples/60_Aufgabe_1f_-_Biphenyl/index.json",
-        "title": "Aufgabe_1f_-_Biphenyl"
-      }
-    ]
+    "children": []
   },
   {
     "groupName": "Übungsblatt 6",

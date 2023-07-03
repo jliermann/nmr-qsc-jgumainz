@@ -1,0 +1,45 @@
+[
+  {
+    "id": "3g/uBxceLzxCaOnclzg+Xg6WQ0M=",
+    "mf": "C8H8O2",
+    "idCodeHash": "6a9d61bcf9a3ceb39c0b4659e92d7460",
+    "file": "./140_seminar4_aufg1/10_Aufgabe_1c_-_o-Anisaldehyd/index.json",
+    "title": "Aufgabe_1c_-_o-Anisaldehyd",
+    "selected": true
+  },
+  {
+    "id": "gItGVQNT2BDkwqNILKxbP6zd0GI=",
+    "mf": "C6H10O",
+    "idCodeHash": "0c040e49bbf171fdd75dbbc94458831f",
+    "file": "./140_seminar4_aufg1/20_Aufgabe_1c_-_Cyclohexenoxid/index.json",
+    "title": "Aufgabe_1c_-_Cyclohexenoxid"
+  },
+  {
+    "id": "zAk9my+E1RyK8qbo4DQkfoy2yMQ=",
+    "mf": "C4H9Br",
+    "idCodeHash": "0391d02c6d34c77404772f31e896b6d9",
+    "file": "./140_seminar4_aufg1/30_Aufgabe_1c_-_2-Brombutan/index.json",
+    "title": "Aufgabe_1c_-_2-Brombutan"
+  },
+  {
+    "id": "bZs6/MuLlwYp/A/hwm194u51xpg=",
+    "mf": "C5H13NO",
+    "idCodeHash": "b71b8e1b4dc942b82b278c47cccdca2f",
+    "file": "./140_seminar4_aufg1/40_Aufgabe_1c_-_Valinol/index.json",
+    "title": "Aufgabe_1c_-_Valinol"
+  },
+  {
+    "id": "Z/4zF8va4gmPHB5Rbq2EZOsWmRc=",
+    "mf": "C6H8O7",
+    "idCodeHash": "e3fd75a98ad6a0ff82d7e6bf2b84b17c",
+    "file": "./140_seminar4_aufg1/50_Aufgabe_1c_-_Citronensaeure/index.json",
+    "title": "Aufgabe_1c_-_Citronensaeure"
+  },
+  {
+    "id": "5gtX1+AOvPAi2qwR+ioptGThLtQ=",
+    "mf": "C12H10",
+    "idCodeHash": "2ef6f33711f071044dee07cdf7e1841e",
+    "file": "./140_seminar4_aufg1/60_Aufgabe_1c_-_Biphenyl/index.json",
+    "title": "Aufgabe_1c_-_Biphenyl"
+  }
+]
