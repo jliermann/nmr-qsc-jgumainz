@@ -4,12 +4,123 @@
     "folderName": "10_ex2",
     "children": [
       {
-        "id": "m6LHLd9svuDpr61GpJ1uWosfxr8=",
+        "id": "CDLlCUJjV6icYwW8geVtVLDhePM=",
         "mf": "C4H9Br",
         "idCodeHash": "236b3c4e9cae96fde9b5cc891bf35885",
         "file": "./10_ex2/10_Aufgabe_3/index.json",
         "title": "Aufgabe_3",
         "selected": true
+      }
+    ]
+  },
+  {
+    "groupName": "Übungsblatt 3",
+    "folderName": "20_ex3",
+    "children": [
+      {
+        "id": "RlJzkiAtPeOfVa/1urL52H5M09I=",
+        "mf": "C5H10O",
+        "idCodeHash": "0e80ebd2a9a2eb6836a2ee31fab99854",
+        "file": "./20_ex3/30_Aufgabe_3/index.json",
+        "title": "Aufgabe_3"
+      }
+    ]
+  },
+  {
+    "groupName": "Übungsblatt 4",
+    "folderName": "30_ex4",
+    "children": [
+      {
+        "id": "lO9JkAEI/kENEyfH79XcVcouae0=",
+        "mf": "C4H6O",
+        "idCodeHash": "0d33ddbfb36dd813fbd529a537d5d36b",
+        "file": "./30_ex4/10_Aufgabe_2/index.json",
+        "title": "Aufgabe_2"
+      },
+      {
+        "id": "1GlYTVkqXNDUe/D2KuxgRpSNcus=",
+        "mf": "C3H4O",
+        "idCodeHash": "7b0fe64fb05b4270b44579f6c4dd0293",
+        "file": "./30_ex4/20_Aufgabe_2/index.json",
+        "title": "Aufgabe_2"
+      },
+      {
+        "id": "k9iBU/PLNgE9/hMxDvdMS3Pw37g=",
+        "mf": "C6H10",
+        "idCodeHash": "37bda40ad086a34bedb633da0ffa5359",
+        "file": "./30_ex4/30_Aufgabe_3/index.json",
+        "title": "Aufgabe_3"
+      }
+    ]
+  },
+  {
+    "groupName": "Übungsblatt 5",
+    "folderName": "40_ex5",
+    "children": [
+      {
+        "id": "W+3EPlfKYO3dBwrOiBcz4KT0ZQ8=",
+        "mf": "C8H8O",
+        "idCodeHash": "e4617999ccdccfc27ee8da157b5d8bdd",
+        "file": "./40_ex5/20_Aufgabe_3/index.json",
+        "title": "Aufgabe_3"
+      }
+    ]
+  },
+  {
+    "groupName": "Übungsblatt 5 - Spektrenbeispiele",
+    "folderName": "41_ex5-examples",
+    "children": []
+  },
+  {
+    "groupName": "Übungsblatt 6",
+    "folderName": "50_ex6",
+    "children": [
+      {
+        "id": "Y9xNCMMiaB8HEGkwhMmXr197FzA=",
+        "mf": "C6H7N",
+        "idCodeHash": "f7da5c2932735cb6ce23836eee157124",
+        "file": "./50_ex6/10_Aufgabe_1/index.json",
+        "title": "Aufgabe_1"
+      },
+      {
+        "id": "fLP71vJWvJJR9cbXX7t6V5LePLA=",
+        "mf": "C11H12O2",
+        "idCodeHash": "836dec4627c37db55f8ffa49b1891c41",
+        "file": "./50_ex6/20_Aufgabe_2/index.json",
+        "title": "Aufgabe_2"
+      }
+    ]
+  },
+  {
+    "groupName": "Übungsblatt 7",
+    "folderName": "60_ex7",
+    "children": [
+      {
+        "id": "E7IJXFx8i14n7NbRSUG11pPJHGA=",
+        "mf": "C7H8O3",
+        "idCodeHash": "4444139bcfd725a2cf01a7354ed5b468",
+        "file": "./60_ex7/10_Aufgabe_1/index.json",
+        "title": "Aufgabe_1"
+      },
+      {
+        "id": "nYzD4EiWTQ75aPTzdikZSg2i3AY=",
+        "mf": "C5H6O2",
+        "idCodeHash": "b737f6c099924a74d968d86c8e679a89",
+        "file": "./60_ex7/20_Aufgabe_2/index.json",
+        "title": "Aufgabe_2"
+      }
+    ]
+  },
+  {
+    "groupName": "Sonstige Übungen",
+    "folderName": "99_misc",
+    "children": [
+      {
+        "id": "Kp11vE802oHnZ2D7fB8OeXgZsMs=",
+        "mf": "C3H5OCl",
+        "idCodeHash": "cf7dec2ff187b6b8eab1a7a14f2c4180",
+        "file": "./99_misc/106-89-8/index.json",
+        "title": "106-89-8"
       }
     ]
   },
@@ -109,113 +220,22 @@
     ]
   },
   {
-    "groupName": "Übungsblatt 3",
-    "folderName": "20_ex3",
+    "groupName": "seminar5",
+    "folderName": "150_seminar5",
     "children": [
       {
-        "id": "RlJzkiAtPeOfVa/1urL52H5M09I=",
-        "mf": "C5H10O",
-        "idCodeHash": "0e80ebd2a9a2eb6836a2ee31fab99854",
-        "file": "./20_ex3/30_Aufgabe_3/index.json",
-        "title": "Aufgabe_3"
-      }
-    ]
-  },
-  {
-    "groupName": "Übungsblatt 4",
-    "folderName": "30_ex4",
-    "children": [
-      {
-        "id": "K0ZmnmonB4M5k5KhgtVUwdwJSww=",
-        "mf": "C4H6O",
-        "idCodeHash": "0d33ddbfb36dd813fbd529a537d5d36b",
-        "file": "./30_ex4/10_Aufgabe_2/index.json",
+        "id": "qyEOZU6TB+FTzT1+8q1RHSTFCSM=",
+        "mf": "C5H8",
+        "idCodeHash": "e7ea569a6d4c9ab24c4ea613d91e0229",
+        "file": "./150_seminar5/20_Aufgabe_2/index.json",
         "title": "Aufgabe_2"
       },
       {
-        "id": "1GlYTVkqXNDUe/D2KuxgRpSNcus=",
-        "mf": "C3H4O",
-        "idCodeHash": "7b0fe64fb05b4270b44579f6c4dd0293",
-        "file": "./30_ex4/20_Aufgabe_2/index.json",
-        "title": "Aufgabe_2"
-      },
-      {
-        "id": "k9iBU/PLNgE9/hMxDvdMS3Pw37g=",
-        "mf": "C6H10",
-        "idCodeHash": "37bda40ad086a34bedb633da0ffa5359",
-        "file": "./30_ex4/30_Aufgabe_3/index.json",
-        "title": "Aufgabe_3"
-      }
-    ]
-  },
-  {
-    "groupName": "Übungsblatt 5",
-    "folderName": "40_ex5",
-    "children": [
-      {
-        "id": "W+3EPlfKYO3dBwrOiBcz4KT0ZQ8=",
-        "mf": "C8H8O",
-        "idCodeHash": "e4617999ccdccfc27ee8da157b5d8bdd",
-        "file": "./40_ex5/20_Aufgabe_3/index.json",
-        "title": "Aufgabe_3"
-      }
-    ]
-  },
-  {
-    "groupName": "Übungsblatt 5 - Spektrenbeispiele",
-    "folderName": "41_ex5-examples",
-    "children": []
-  },
-  {
-    "groupName": "Übungsblatt 6",
-    "folderName": "50_ex6",
-    "children": [
-      {
-        "id": "L7rMRYqIA0yYf+Ovg3cXgHXYYq8=",
+        "id": "ZljP2vTbV0FJgMamJBkz0l9ElzE=",
         "mf": "C6H7N",
-        "idCodeHash": "f7da5c2932735cb6ce23836eee157124",
-        "file": "./50_ex6/10_Aufgabe_1/index.json",
-        "title": "Aufgabe_1"
-      },
-      {
-        "id": "gC13C0V6d4pbraPYB/f7dKWGKqU=",
-        "mf": "C11H12O2",
-        "idCodeHash": "836dec4627c37db55f8ffa49b1891c41",
-        "file": "./50_ex6/20_Aufgabe_2/index.json",
-        "title": "Aufgabe_2"
-      }
-    ]
-  },
-  {
-    "groupName": "Übungsblatt 7",
-    "folderName": "60_ex7",
-    "children": [
-      {
-        "id": "E7IJXFx8i14n7NbRSUG11pPJHGA=",
-        "mf": "C7H8O3",
-        "idCodeHash": "4444139bcfd725a2cf01a7354ed5b468",
-        "file": "./60_ex7/10_Aufgabe_1/index.json",
-        "title": "Aufgabe_1"
-      },
-      {
-        "id": "nYzD4EiWTQ75aPTzdikZSg2i3AY=",
-        "mf": "C5H6O2",
-        "idCodeHash": "b737f6c099924a74d968d86c8e679a89",
-        "file": "./60_ex7/20_Aufgabe_2/index.json",
-        "title": "Aufgabe_2"
-      }
-    ]
-  },
-  {
-    "groupName": "Sonstige Übungen",
-    "folderName": "99_misc",
-    "children": [
-      {
-        "id": "vLm37LnccrO5LiQmHDBckl62u7U=",
-        "mf": "C3H5OCl",
-        "idCodeHash": "cf7dec2ff187b6b8eab1a7a14f2c4180",
-        "file": "./99_misc/106-89-8/index.json",
-        "title": "106-89-8"
+        "idCodeHash": "6d12762db34ed554dfc70cd05689b825",
+        "file": "./150_seminar5/30_Aufgabe_3/index.json",
+        "title": "Aufgabe_3"
       }
     ]
   }
