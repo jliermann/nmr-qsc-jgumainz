@@ -1,10 +1,17 @@
 [
   {
-    "id": "W+3EPlfKYO3dBwrOiBcz4KT0ZQ8=",
-    "mf": "C8H8O",
-    "idCodeHash": "e4617999ccdccfc27ee8da157b5d8bdd",
-    "file": "./40_ex5/20_Aufgabe_3/index.json",
-    "title": "Aufgabe_3",
+    "id": "E7IJXFx8i14n7NbRSUG11pPJHGA=",
+    "mf": "C7H8O3",
+    "idCodeHash": "4444139bcfd725a2cf01a7354ed5b468",
+    "file": "./40_ex5/10_Aufgabe_1/index.json",
+    "title": "Aufgabe_1",
     "selected": true
+  },
+  {
+    "id": "nYzD4EiWTQ75aPTzdikZSg2i3AY=",
+    "mf": "C5H6O2",
+    "idCodeHash": "b737f6c099924a74d968d86c8e679a89",
+    "file": "./40_ex5/20_Aufgabe_2/index.json",
+    "title": "Aufgabe_2"
   }
 ]

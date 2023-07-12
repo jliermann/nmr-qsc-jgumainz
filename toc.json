@@ -54,62 +54,29 @@
     ]
   },
   {
-    "groupName": "Übungsblatt 5",
-    "folderName": "40_ex5",
-    "children": [
-      {
-        "id": "W+3EPlfKYO3dBwrOiBcz4KT0ZQ8=",
-        "mf": "C8H8O",
-        "idCodeHash": "e4617999ccdccfc27ee8da157b5d8bdd",
-        "file": "./40_ex5/20_Aufgabe_3/index.json",
-        "title": "Aufgabe_3"
-      }
-    ]
-  },
-  {
-    "groupName": "Übungsblatt 5 - Spektrenbeispiele",
-    "folderName": "41_ex5-examples",
-    "children": []
-  },
-  {
-    "groupName": "Übungsblatt 6",
-    "folderName": "50_ex6",
-    "children": [
-      {
-        "id": "Y9xNCMMiaB8HEGkwhMmXr197FzA=",
-        "mf": "C6H7N",
-        "idCodeHash": "f7da5c2932735cb6ce23836eee157124",
-        "file": "./50_ex6/10_Aufgabe_1/index.json",
-        "title": "Aufgabe_1"
-      },
-      {
-        "id": "fLP71vJWvJJR9cbXX7t6V5LePLA=",
-        "mf": "C11H12O2",
-        "idCodeHash": "836dec4627c37db55f8ffa49b1891c41",
-        "file": "./50_ex6/20_Aufgabe_2/index.json",
-        "title": "Aufgabe_2"
-      }
-    ]
-  },
-  {
     "groupName": "Übungsblatt 7",
-    "folderName": "60_ex7",
+    "folderName": "40_ex5",
     "children": [
       {
         "id": "E7IJXFx8i14n7NbRSUG11pPJHGA=",
         "mf": "C7H8O3",
         "idCodeHash": "4444139bcfd725a2cf01a7354ed5b468",
-        "file": "./60_ex7/10_Aufgabe_1/index.json",
+        "file": "./40_ex5/10_Aufgabe_1/index.json",
         "title": "Aufgabe_1"
       },
       {
         "id": "nYzD4EiWTQ75aPTzdikZSg2i3AY=",
         "mf": "C5H6O2",
         "idCodeHash": "b737f6c099924a74d968d86c8e679a89",
-        "file": "./60_ex7/20_Aufgabe_2/index.json",
+        "file": "./40_ex5/20_Aufgabe_2/index.json",
         "title": "Aufgabe_2"
       }
     ]
+  },
+  {
+    "groupName": "Übungsblatt 5",
+    "folderName": "50_ex6",
+    "children": []
   },
   {
     "groupName": "Sonstige Übungen",
