@@ -1,7 +1,5 @@
 ##TITLE=AK nmr
 Name schenk
-Code (+-)-1-Phenylethanol
-CAS: ?
 ca. 32 mg
 h1.tci CDCl3 {C:\Bruker\av3-600\av600} nmrsu 3
 ##JCAMPDX= 6.0         $$ Bruker NMR JCAMP-DX V2.0
