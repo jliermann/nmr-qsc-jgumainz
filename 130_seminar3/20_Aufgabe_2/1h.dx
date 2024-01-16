@@ -1,7 +1,5 @@
 ##TITLE=AK nmr
 Name schenk
-Code 4-chlorphenol
-CAS: 106-48-9
 ca. 23 mg
 h1.tci DMSO {C:\Bruker\av3-600\av600} nmrsu 2
 ##JCAMPDX= 6.0         $$ Bruker NMR JCAMP-DX V2.0

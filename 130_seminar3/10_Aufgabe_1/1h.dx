@@ -1,7 +1,5 @@
 ##TITLE=AK nmr
 Name schenk
-Code DL-Aepfelsaeure
-CAS: 6915-15-7
 ca. 20 mg
 h1.tci D2O {C:\Bruker\av3-600\av600} nmrsu 2
 ##JCAMPDX= 6.0         $$ Bruker NMR JCAMP-DX V2.0

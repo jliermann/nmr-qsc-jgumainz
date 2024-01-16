@@ -2,7 +2,7 @@
   "spectra": [
     {
       "source": {
-        "jcampURL": "./1+2-phenylethanol.dx"
+        "jcampURL": "./1h.dx"
       },
       "display": {
         "name": ""
